@@ -1,0 +1,6 @@
+numpy
+opencv-python
+Pillow
+tensorflow
+tensorflow-object-detection-api
+protobuf

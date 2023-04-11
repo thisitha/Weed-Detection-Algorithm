@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pineapple_images</folder>
+	<filename>Image_20_pineapple.jpg</filename>
+	<path>C:\Users\Aspire5\Desktop\fiverr\Pineapple_images\Image_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>103</ymin>
+			<xmax>336</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
